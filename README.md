@@ -26,7 +26,7 @@ This is Aitik Dandapat 😃 I have experience in building andriod/ios Applicatio
 ## ⚡ Technologies
 I can talk about
 - Technical Content Writing/Documentation
-- Android/IOS Developer using **JAVA, KOTLIN, XML, Flutter(DART)
+- Android/IOS Developer using **JAVA, KOTLIN, XML, Flutter(DART)**
 - Front-end Web Development(UI/UX) using **HTML, Javascript, CSS, Bootstrap**
 - Solving Data Structures and Algorithm questions in **C++ and Python**
 
