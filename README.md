@@ -4,7 +4,7 @@
 This is Aitik Dandapat 😃 I have experience in building andriod/ios Applications and efficient Web Applications,  currently pursuing B.Tech CS from Veer Surendra Sai University of Tegnology, Burla 🏫.I am  a TechGeek, Writer and I like to code things.
 
 
-## Hello World!! 🤔
+## Hello World!! 😊
 
 - 💬 Open Source Enthusiast :octocat:
 <!--- 🎯 Portfolio Site: [agniutkarsh.com](https://www.agniutkarsh.com/)-->
