@@ -30,4 +30,3 @@ I can talk about
 - Front-end Web Development(UI/UX) using **HTML, Javascript, CSS, Bootstrap**
 - Solving Data Structures and Algorithm questions in **C++ and Python**
 
-[![HitCount](http://hits.dwyl.com/i-tick/i-tick.svg)](http://hits.dwyl.com/i-tick/i-tick)
