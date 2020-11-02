@@ -30,3 +30,4 @@ I can talk about
 - Front-end Web Development(UI/UX) using **HTML, Javascript, CSS, Bootstrap**
 - Solving Data Structures and Algorithm questions in **C++ and Python**
 
+![Aitik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-tick&count_private=true&show_icons=true&theme=solarized-light)
