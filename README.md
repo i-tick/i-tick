@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="480px" />
 <h2> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <developers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-This is Aitik Dandapat 😃 I have experience in building andriod/ios Applications and efficient Web Applications,  currently pursuing B.Tech CS from Veer Surendra Sai University of Technology, Burla 🏫.I am  a TechGeek, Writer and I like to code things.
+This is Aitik Dandapat 😃 I have experience in building andriod/ios Applications and efficient Web Applications,  currently pursuing Master's in Computer Science at State University of New York, Stony Brook 🏫.I am  a TechGeek and I like to code things.
 
 
 ## Hello World!! 😊
