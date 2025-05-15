@@ -14,5 +14,3 @@ This is Aitik Dandapat 😃 I have experience in building andriod/ios Applicatio
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
 
 <a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/916206014527)</a> <a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/aitik.dandapat.3)</a> <a>[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/i_tick_/)</a>  <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AitikDandapat)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aitik-dandapat-b03395184/)</a>
-
-![Aitik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-tick&count_private=true&show_icons=true&theme=solarized-light)
